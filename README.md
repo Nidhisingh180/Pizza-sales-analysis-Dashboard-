@@ -163,7 +163,7 @@ The dashboard converts raw sales data into actionable business insights for bett
 
 6. Dashboard Preview
 📷 Dashboard Screenshot
-![Pizza Sales Dashboard]()
+![Pizza Sales Dashboard](https://github.com/Nidhisingh180/Pizza-sales-analysis-Dashboard-/blob/main/Pizza%20sales%20analysis%20snapshot.png)
 
 
 7. Conclusion
